@@ -7,10 +7,10 @@
 		
 	<!--VersionCode is optional and Android only-->
 	
-	<name>Aplicación Cinco Día de la Tierra</name>
+	<name>Aplicacion CBTis 16</name>
 	
 	<descripcion>
-	    Aplicacion que muestra información de la tierra
+	    Aplicacion que muestra información de CBTis16
 	</descripcion>
 	
 	<preference name="phonegap-version" value="3.1.0"/>
